@@ -1,4 +1,4 @@
-%% FUNCTION_WaveSeparation
+%% FUNCTION_WaveSeparation4W
 %  This function separates ingoing and outgoing waves. Thus, this function 
 %  may separate incident bound waves, incident free waves and outgoing free 
 %  waves along the bathymetry if the propagation chracteristics of the bound
