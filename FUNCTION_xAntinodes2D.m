@@ -1,4 +1,4 @@
-%% FUNCTION_xAntinodes
+%% FUNCTION_xAntinodes2D
 %  This function provides the expected location of nodes and antinodes resultant
 %  of 2 pair of wave trains travelling with different celerities at the
 %  same frequency
